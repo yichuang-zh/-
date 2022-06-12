@@ -1,11 +1,3 @@
----
-deleted: true
-tags: [Import-7a68]
-title: 驿窗开源公约
-created: '1970-01-01T00:00:00.000Z'
-modified: '2022-06-12T02:52:53.819Z'
----
-
 # 驿窗开源公约
 
 ## 介绍
